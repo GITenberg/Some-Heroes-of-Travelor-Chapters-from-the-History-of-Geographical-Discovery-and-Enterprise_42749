@@ -1,0 +1,38 @@
+_repo: Some-Heroes-of-Travelor-Chapters-from-the-History-of-Geographical-Discovery-and-Enterprise_42749
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42749-h/images/coverb.jpg
+creator:
+  author:
+    agent_name: Adams, W. H. Davenport (William Henry Davenport)
+    aliases:
+    - Adams, W.H.
+    - Adams, William Henry Davenport
+    birthdate: 1828
+    deathdate: 1891
+    gutenberg_agent_id: '34969'
+    url: http://www.gutenberg.org/2009/agents/34969
+description: ''
+gutenberg_issued: '2013-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Explorers'
+- !lcc 'G'
+- !lcsh 'Discoveries in geography'
+tableOfContents: Sir Marco Polo, the Venetian, and his travels in Asia -- Mr. George
+  F. Ruxton, and his adventures in Mexico and the Rocky Mountains -- Doctor Barth,
+  and Central Africa -- Mr. Thomas Witlam Atkinson, and his adventures in Siberia
+  and Central Asia -- Alexina Tinné, and her wanderings in the Sudan -- Mr. J. A,
+  MacGahan, and campaigning on the Oxus -- Colonel Egerton Warburton, and exploration
+  in West Australia -- Major Burnaby, and a ride to Khiva -- Sir Samuel Baker, and
+  the sources of the Nile.
+title: "Some Heroes of Travel\r\nor, Chapters from the History of Geographical Discovery\
+  \ and Enterprise"
+url: http://www.gutenberg.org/ebooks/42749
