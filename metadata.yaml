@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '34969'
     url: http://www.gutenberg.org/2009/agents/34969
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42749#Some-Heroes-of-Travelor-Chapters-from-the-History-of-Geographical-Discovery-and-Enterprise
 gutenberg_issued: '2013-05-20'
 gutenberg_type: Text
 identifiers:
